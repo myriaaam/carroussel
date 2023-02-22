@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<!-- saved from url=(0103)https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644 -->
+<html lang="en" class="webp js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link rel="preconnect" href="https://cdn.vectorstock.com/">
+	<link rel="preconnect" href="https://www.googletagmanager.com/">
+	<link rel="preconnect" href="https://www.google-analytics.com/">
+	<meta name="theme-color" content="#101122">
+	<script type="text/javascript" src="./bienvenus_files/02e09611df"></script><script type="text/javascript" async="" src="./bienvenus_files/analytics.js.téléchargement" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script type="text/javascript" async="" src="./bienvenus_files/js" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script type="text/javascript" async="" src="./bienvenus_files/js(1)" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script type="text/javascript" async="" src="./bienvenus_files/js(2)" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script type="text/javascript" async="" src="./bienvenus_files/analytics.js.téléchargement" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script async="" src="./bienvenus_files/gtm.js.téléchargement" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script><script type="text/javascript" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU=">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"02e09611df",applicationID:"156179534"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var n=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(n=+i[1])},6900:(e,t,r)=>{"use strict";let n;if(r.d(t,{H:()=>i}),r(2374).il){const e=document.createElement("div");e.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e",n=e.getElementsByTagName("div").length}var i;i=4===n?6:3===n?7:2===n?8:1===n?9:0},6562:(e,t,r)=>{"use strict";r.d(t,{P_:()=>h,Mt:()=>v,C5:()=>d,DL:()=>w,OP:()=>B,lF:()=>V,Yu:()=>A,Dg:()=>p,CX:()=>l,GE:()=>y,sU:()=>M});var n={};r.r(n),r.d(n,{agent:()=>O,match:()=>_,version:()=>S});var i=r(6797),o=r(909),a=r(8610);class s{constructor(e,t){try{if(!e||"object"!=typeof e)return(0,a.Z)("New setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,a.Z)("Setting a Configurable requires a model to set its initial properties");Object.assign(this,t),Object.entries(e).forEach((e=>{let[t,r]=e;const n=(0,o.q)(t);n.length&&r&&"object"==typeof r&&n.forEach((e=>{e in r&&((0,a.Z)(`"${e}" is a protected attribute and can not be changed in feature ${t}.  It will have no effect.`),delete r[e])})),this[t]=r}))}catch(e){(0,a.Z)("An error occured while setting a Configurable",e)}}}const c={beacon:i.ce.beacon,errorBeacon:i.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},u={};function d(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!u[e])throw new Error(`Info for ${e} was never set`);return u[e]}function l(e,t){if(!e)throw new Error("All info objects require an agent identifier!");u[e]=new s(t,c),(0,i.Qy)(e,u[e],"info")}const f={allow_bfcache:!1,privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0,harvestTimeSeconds:10},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10},metrics:{enabled:!0,harvestTimeSeconds:10},page_action:{enabled:!0,harvestTimeSeconds:30},page_view_event:{enabled:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30},session_trace:{enabled:!0,harvestTimeSeconds:10},spa:{enabled:!0,harvestTimeSeconds:10}},g={};function h(e){if(!e)throw new Error("All configuration objects require an agent identifier!");if(!g[e])throw new Error(`Configuration for ${e} was never set`);return g[e]}function p(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");g[e]=new s(t,f),(0,i.Qy)(e,g[e],"config")}function v(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");var r=h(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const m={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},b={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!b[e])throw new Error(`LoaderConfig for ${e} was never set`);return b[e]}function y(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");b[e]=new s(t,m),(0,i.Qy)(e,b[e],"loader_config")}const A=(0,i.mF)().o;var x=r(6900),E=r(2053),O=null,S=null;if(navigator.userAgent){var D=navigator.userAgent,j=D.match(/Version\/(\S+)\s+Safari/);j&&-1===D.indexOf("Chrome")&&-1===D.indexOf("Chromium")&&(O="Safari",S=j[1])}function _(e,t){if(!O)return!1;if(e!==O)return!1;if(!t)return!0;if(!S)return!1;for(var r=S.split("."),n=t.split("."),i=0;i<n.length;i++)if(n[i]!==r[i])return!1;return!0}var k=r(5526),T=r(2374);const P="NRBA_SESSION_ID";function C(){if(!T.il)return null;try{let e;return null===(e=window.sessionStorage.getItem(P))&&(e=(0,k.ky)(16),window.sessionStorage.setItem(P,e)),e}catch(e){return null}}var I=T._A?.XMLHttpRequest,N=I&&I.prototype;const R={};function B(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!R[e])throw new Error(`Runtime for ${e} was never set`);return R[e]}function M(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");var r;R[e]=new s(t,(r=e,{customTransaction:void 0,disabled:!1,features:{},isolatedBacklog:!1,loaderType:void 0,maxBytes:6===x.H?2e3:3e4,offset:(0,E.yf)(),onerror:void 0,origin:""+T._A?.location,ptid:void 0,releaseIds:{},sessionId:1==v(r,"privacy.cookies_enabled")?C():null,xhrWrappable:I&&N&&N.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:n})),(0,i.Qy)(e,R[e],"runtime")}function V(e){return function(e){try{const t=d(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},8226:(e,t,r)=>{"use strict";r.d(t,{q:()=>n});const n="1223.PROD"},9557:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(8610);const i={agentIdentifier:""};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},4329:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(3752),i=r(7022),o=r(4045),a=r(2325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=Array.from(s[e]);function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((e=>{let[t]=e;a(t)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},3752:(e,t,r)=>{"use strict";r.d(t,{ee:()=>u});var n=r(6797),i=r(3916),o=r(7022),a=r(6562),s="nr@context";let c=(0,n.fP)();var u;function d(){}function l(){return new d}function f(){(u.backlog.api||u.backlog.feature)&&(u.aborted=!0,u.backlog={})}c.ee?u=c.ee:(u=function e(t,r){var n={},c={},g={},h=!1;try{h=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var p={on:b,addEventListener:b,removeEventListener:w,emit:m,get:A,listeners:y,context:v,buffer:x,abort:f,aborted:!1,isBuffering:E,debugId:r,backlog:h?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return p;function v(e){return e&&e instanceof d?e:e?(0,i.X)(e,s,l):l()}function m(e,r,n,i,o){if(!1!==o&&(o=!0),!u.aborted||i){t&&o&&t.emit(e,r,n);for(var a=v(n),s=y(e),d=s.length,l=0;l<d;l++)s[l].apply(a,r);var f=O()[c[e]];return f&&f.push([p,e,r,a]),a}}function b(e,t){n[e]=y(e).concat(t)}function w(e,t){var r=n[e];if(r)for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)}function y(e){return n[e]||[]}function A(t){return g[t]=g[t]||e(p,t)}function x(e,t){var r=O();p.aborted||(0,o.D)(e,(function(e,n){t=t||"feature",c[n]=t,t in r||(r[t]=[])}))}function E(e){return!!O()[c[e]]}function O(){return p.backlog}}(void 0,"globalEE"),c.ee=u)},9252:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(3752).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4045:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(9252);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},8544:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(2374),i=!1;try{var o=Object.defineProperty({},"passive",{get:function(){i=!0}});n._A?.addEventListener("testPassive",null,o),n._A?.removeEventListener("testPassive",null,o)}catch(e){}function a(e){return i?{passive:!0,capture:!!e}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];window.addEventListener(e,t,a(r))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];document.addEventListener(e,t,a(r))}},5526:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>i,ky:()=>o});var n=r(2374);function i(){var e=null,t=0,r=n._A?.crypto||n._A?.msCrypto;function i(){return e?15&e[t++]:16*Math.random()|0}r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,a="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",s="",c=0;c<a.length;c++)s+="x"===(o=a[c])?i().toString(16):"y"===o?(o=3&i()|8).toString(16):o;return s}function o(e){var t=null,r=0,n=self.crypto||self.msCrypto;n&&n.getRandomValues&&Uint8Array&&(t=n.getRandomValues(new Uint8Array(31)));for(var i=[],o=0;o<e;o++)i.push(a().toString(16));return i.join("");function a(){return t?15&t[r++]:16*Math.random()|0}}},2053:(e,t,r)=>{"use strict";r.d(t,{nb:()=>c,os:()=>u,yf:()=>s,zO:()=>a});var n=r(7145),i=(new Date).getTime(),o=i;function a(){return n.G&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-o}function s(){return i}function c(e){o=e}function u(){return o}},7145:(e,t,r)=>{"use strict";r.d(t,{G:()=>n});const n=void 0!==r(2374)._A?.performance?.timing?.navigationStart},6625:(e,t,r)=>{"use strict";r.d(t,{s:()=>c,v:()=>u});var n=r(8283),i=r(9071),o=r(2053),a=r(7145),s=r(2374);let c=!0;function u(e){var t=function(){if(i.I&&i.I<9)return;if(a.G)return c=!1,s._A?.performance?.timing?.navigationStart}();t&&((0,n.B)(e,"starttime",t),(0,o.nb)(t))}},8283:(e,t,r)=>{"use strict";r.d(t,{B:()=>o,L:()=>a});var n=r(2053),i={};function o(e,t,r){void 0===r&&(r=(0,n.zO)()+(0,n.os)()),i[e]=i[e]||{},i[e][t]=r}function a(e,t,r,n){const o=e.sharedContext.agentIdentifier;var a=i[o]?.[r],s=i[o]?.[n];void 0!==a&&void 0!==s&&e.store("measures",t,{value:s-a})}},9548:(e,t,r)=>{"use strict";r.d(t,{T:()=>i});var n=r(2374);const i={isFileProtocol:function(){let e=Boolean("file:"===(0,n.lW)()?.location?.protocol);e&&(i.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},8610:(e,t,r)=>{"use strict";function n(e,t){console&&console.warn&&"function"==typeof console.warn&&(console.warn(`New Relic: ${e}`),t&&console.warn(t))}r.d(t,{Z:()=>n})},3916:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},2374:(e,t,r)=>{"use strict";r.d(t,{_A:()=>o,il:()=>n,lW:()=>a,v6:()=>i});const n=Boolean("undefined"!=typeof window&&window.document),i=Boolean("undefined"!=typeof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator);let o=(()=>{if(n)return window;if(i){if("undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope)return globalThis;if(self instanceof WorkerGlobalScope)return self}throw new Error("New Relic browser agent shutting down due to error: Unable to locate global scope. This is possibly due to code redefining browser global variables like `self` and `window`.")})();function a(){return o}},7022:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t){var r=[],i="",o=0;for(i in e)n.call(e,i)&&(r[o]=t(i,e[i]),o+=1);return r}},9226:(e,t,r)=>{"use strict";r.d(t,{$c:()=>u,Ng:()=>d,RR:()=>c});var n=r(6562),i=r(9557),o=r(9548),a=r(8610),s={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"};class c extends i.w{constructor(e){super(e)}shouldObfuscate(){return u(this.sharedContext.agentIdentifier).length>0}obfuscateString(e){if(!e||"string"!=typeof e)return e;for(var t=u(this.sharedContext.agentIdentifier),r=e,n=0;n<t.length;n++){var i=t[n].regex,o=t[n].replacement||"*";r=r.replace(i,o)}return r}}function u(e){var t=[],r=(0,n.Mt)(e,"obfuscate")||[];return t=t.concat(r),o.T.isFileProtocol()&&t.push(s),t}function d(e){for(var t=!1,r=!1,n=0;n<e.length;n++){"regex"in e[n]?"string"!=typeof e[n].regex&&e[n].regex.constructor!==RegExp&&((0,a.Z)('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),r=!0):((0,a.Z)('An obfuscation replacement rule was detected missing a "regex" value.'),r=!0);var i=e[n].replacement;i&&"string"!=typeof i&&((0,a.Z)('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),t=!0)}return!t&&!r}},2650:(e,t,r)=>{"use strict";r.d(t,{K:()=>a,b:()=>o});var n=r(8544);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},6797:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>u,Qy:()=>c,ce:()=>o,fP:()=>a,gG:()=>d,mF:()=>s});var n=r(2053),i=r(2374);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,r){let i=a();const o=i.initializedAgents||{},s=o[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,n.zO)(),date:new Date}),i.initializedAgents={...o,[e]:{...s,[r]:t}},i}function u(e,t){a()[e]=t}function d(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},6998:(e,t,r)=>{"use strict";r.d(t,{N:()=>i,e:()=>o});var n=r(8544);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1];return void(0,n.iz)("visibilitychange",r);function r(){if(t){if("hidden"!=document.visibilityState)return;e()}e(document.visibilityState)}}function o(){return"hidden"===document.visibilityState?-1:1/0}},6034:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.metrics},2484:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewEvent},6382:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewTiming},1509:(e,t,r)=>{"use strict";r.d(t,{W:()=>s});var n=r(6562),i=r(3752),o=r(2384),a=r(6797);class s{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=i.ee.get(e,(0,n.OP)(this.agentIdentifier).isolatedBacklog),this.featureName=r,this.blocked=!1,this.checkConfiguration()}checkConfiguration(){if(!(0,n.lF)(this.agentIdentifier)){let e={...(0,a.gG)().info?.jsAttributes};try{e={...e,...(0,n.C5)(this.agentIdentifier)?.jsAttributes}}catch(e){}(0,o.j)(this.agentIdentifier,{...(0,a.gG)(),info:{...(0,a.gG)().info,jsAttributes:e}})}}}},2384:(e,t,r)=>{"use strict";r.d(t,{j:()=>w});var n=r(8683),i=r.n(n),o=r(2325),a=r(6562),s=r(9252),c=r(7022),u=r(3752),d=r(2053),l=r(4329),f=r(2650),g=r(2374);function h(e,t,n){n||(0,l.R)(e,"api"),function(e){function t(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&e.api[t](...n)}))}["setErrorHandler","finished","addToTrace","inlineHit","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError"].forEach((r=>{e[r]=function(){for(var e=arguments.length,n=new Array(e),i=0;i<e;i++)n[i]=arguments[i];return t(r,...n)}}))}(t);var h=u.ee.get(e),p=h.get("tracer"),v="api-",m="api-ixn-";function b(){}(0,c.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(e,r){t[r]=y(v,r,!0,"api")})),t.addPageAction=y(v,"addPageAction",!0,o.D.pageAction),t.setCurrentRouteName=y(v,"routeName",!0,o.D.spa),t.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,a.OP)(e).customTransaction=(r||"http://custom.transaction")+t,y(v,"setPageViewName",!0,"api")()},t.setCustomAttribute=function(t,r){const n=(0,a.C5)(e);return(0,a.CX)(e,{...n,jsAttributes:{...n.jsAttributes,[t]:r}}),y(v,"setCustomAttribute",!0,"api")()},t.interaction=function(){return(new b).get()};var w=b.prototype={createTracer:function(e,t){var r={},n=this,i="function"==typeof t;return(0,s.p)("api-ixn-tracer",[(0,d.zO)(),e,r],n,o.D.spa,h),function(){if(p.emit((i?"":"no-")+"fn-start",[(0,d.zO)(),n,i],r),i)try{return t.apply(this,arguments)}catch(e){throw p.emit("fn-err",[arguments,this,"string"==typeof e?new Error(e):e],r),e}finally{p.emit("fn-end",[(0,d.zO)()],r)}}}};function y(e,t,r,n){return function(){return(0,s.p)("record-supportability",["API/"+t+"/called"],void 0,o.D.metrics,h),(0,s.p)(e+t,[(0,d.zO)()].concat(i()(arguments)),r?null:this,n,h),r?void 0:this}}function A(){r.e(692).then(r.bind(r,5692)).then((t=>{let{setAPI:r}=t;r(e),(0,l.L)(e,"api")}))}(0,c.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(e,t){w[t]=y(m,t,void 0,o.D.spa)})),t.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,s.p)("record-supportability",["API/noticeError/called"],void 0,o.D.metrics,h),(0,s.p)("err",[e,(0,d.zO)(),!1,t],void 0,o.D.jserrors,h)},g.v6?A():(0,f.b)((()=>A()),!0)}var p=r(6797);const v={stn:o.D.sessionTrace,err:o.D.jserrors,ins:o.D.pageAction,spa:o.D.spa};function m(e,t){var r=u.ee.get(t);e&&"object"==typeof e&&((0,c.D)(e,(function(e,t){if(!t)return(0,s.p)("block-"+e,[],void 0,v[e],r);t&&!b[e]&&((0,s.p)("feat-"+e,[],void 0,v[e],r),b[e]=!0)})),(0,l.L)(t,o.D.pageViewEvent))}const b={};function w(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},r=arguments.length>2?arguments[2]:void 0,n=arguments.length>3?arguments[3]:void 0,{init:i,info:o,loader_config:s,runtime:c={loaderType:r},exposed:u=!0}=t;const d=(0,p.gG)();let l={};return o||(i=d.init,o=d.info,s=d.loader_config,l=d),g.v6&&(o.jsAttributes={...o.jsAttributes,isWorker:!0}),(0,a.CX)(e,o),(0,a.Dg)(e,i||{}),(0,a.GE)(e,s||{}),(0,a.sU)(e,c),h(e,l,n),(0,p.Qy)(e,d,"api"),(0,p.Qy)(e,u,"exposed"),g.v6||((0,p.EZ)("activatedFeatures",b),(0,p.EZ)("setToken",(t=>m(t,e)))),l}},909:(e,t,r)=>{"use strict";r.d(t,{Z:()=>i,q:()=>o});var n=r(2325);function i(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}function o(e){return e===n.D.jserrors?[]:["auto"]}},2325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8}},8683:e=>{e.exports=function(e,t,r){t||(t=0),void 0===r&&(r=e?e.length:0);for(var n=-1,i=r-t||0,o=Array(i<0?0:i);++n<i;)o[n]=e[t+n];return o}},4992:(e,t,r)=>{var n={"./ajax/aggregate":[960,779,960],"./jserrors/aggregate":[6112,779,112],"./metrics/aggregate":[4325,779,325],"./page_action/aggregate":[6817,779,817],"./page_view_event/aggregate":[4823,779,823],"./page_view_timing/aggregate":[8785,779,785],"./session_trace/aggregate":[1307,779,307],"./spa/aggregate":[9378,779,378]};function i(e){if(!r.o(n,e))return Promise.resolve().then((()=>{var t=new Error("Cannot find module '"+e+"'");throw t.code="MODULE_NOT_FOUND",t}));var t=n[e],i=t[0];return Promise.all(t.slice(1).map(r.e)).then((()=>r(i)))}i.keys=()=>Object.keys(n),i.id=4992,e.exports=i}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return i.d(t,{a:t}),t},i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>e+"."+i.h().slice(0,8)+"-1223.js",i.h=()=>"215647de1097144af948",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r),e[r]=[n];var f=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={55:0,308:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=window.webpackChunkNRBA=window.webpackChunkNRBA||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})();var o={};(()=>{"use strict";i.r(o);var e=i(2325),t=i(6562);const r=Object.values(e.D);function n(e){const n={};return r.forEach((r=>{n[r]=function(e,r){return!1!==(0,t.Mt)(r,`${e}.enabled`)}(r,e)})),n}var a=i(2384),s=i(909),c=i(9557),u=i(7022);class d extends c.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,u.D)(e,(function(e,r){t[e]=l(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,u.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=l(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=f(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=l(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=g(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function l(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=f(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function f(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function g(e){return"object"!=typeof e?[]:(0,u.D)(e,h)}function h(e,t){return t}var p=i(6797),v=i(5526),m=i(8610);var b=i(9252),w=i(2053),y=i(8283),A=i(6625),x=i(4329),E=i(1509),O=i(2650),S=i(2374);class D extends E.W{constructor(e,t,r){let n=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.completed=new Promise(((e,t)=>{this.resolve=e,this.reject=t})),this.hasAggregator=!1,this.auto=n,n&&(0,x.R)(e,r)}importAggregator(){try{if(this.hasAggregator||!this.auto)return;this.hasAggregator=!0;const e=async()=>{try{const{Aggregate:e}=await i(4992)(`./${this.featureName}/aggregate`);new e(this.agentIdentifier,this.aggregator),this.resolve()}catch(e){(0,m.Z)(`Failed to import aggregator class for ${this.featureName}`,e)}};S.v6?e():(0,O.b)((()=>e()),!0)}catch(e){this.reject(e)}}}var j,_,k,T=i(2484);class P extends D{constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,T.t,r),S.il&&((0,A.v)(e),(0,y.B)(e,"firstbyte",(0,w.yf)()),(0,O.K)((()=>this.measureDomContentLoaded())),(0,O.b)((()=>this.measureWindowLoaded()),!0),this.importAggregator())}measureWindowLoaded(){var t=(0,w.zO)();(0,y.B)(this.agentIdentifier,"onload",t+(0,w.os)()),(0,b.p)("timing",["load",t],void 0,e.D.pageViewTiming,this.ee)}measureDomContentLoaded(){(0,y.B)(this.agentIdentifier,"domContent",(0,w.zO)()+(0,w.os)())}}j=P,_="featureName",k=T.t,_ in j?Object.defineProperty(j,_,{value:k,enumerable:!0,configurable:!0,writable:!0}):j[_]=k;var C=i(6998),I=i(8544),N=i(6382);class R extends D{constructor(t,r){var n;let i=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];if(super(t,r,N.t,i),n=this,S.il){if(this.pageHiddenTime=(0,C.e)(),this.performanceObserver,this.lcpPerformanceObserver,this.clsPerformanceObserver,this.fiRecorded=!1,"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){this.performanceObserver=new PerformanceObserver((function(){return n.perfObserver(...arguments)}));try{this.performanceObserver.observe({entryTypes:["paint"]})}catch(e){}this.lcpPerformanceObserver=new PerformanceObserver((function(){return n.lcpObserver(...arguments)}));try{this.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(e){}this.clsPerformanceObserver=new PerformanceObserver((function(){return n.clsObserver(...arguments)}));try{this.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(e){}}this.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((e=>{(0,I.iz)(e,(function(){return n.captureInteraction(...arguments)}))})),(0,C.N)((()=>{this.pageHiddenTime=(0,w.zO)(),(0,b.p)("docHidden",[this.pageHiddenTime],void 0,e.D.pageViewTiming,this.ee)}),!0),(0,I.bP)("pagehide",(()=>(0,b.p)("winPagehide",[(0,w.zO)()],void 0,e.D.pageViewTiming,this.ee))),this.importAggregator()}}perfObserver(t,r){t.getEntries().forEach((t=>{"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,e.D.pageViewTiming,this.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,e.D.pageViewTiming,this.ee)}))}lcpObserver(t,r){var n=t.getEntries();if(n.length>0){var i=n[n.length-1];if(this.pageHiddenTime<i.startTime)return;var o=[i],a=this.addConnectionAttributes({});a&&o.push(a),(0,b.p)("lcp",o,void 0,e.D.pageViewTiming,this.ee)}}clsObserver(t){t.getEntries().forEach((t=>{t.hadRecentInput||(0,b.p)("cls",[t],void 0,e.D.pageViewTiming,this.ee)}))}addConnectionAttributes(e){var t=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(t)return t.type&&(e["net-type"]=t.type),t.effectiveType&&(e["net-etype"]=t.effectiveType),t.rtt&&(e["net-rtt"]=t.rtt),t.downlink&&(e["net-dlink"]=t.downlink),e}captureInteraction(r){if(r instanceof t.Yu.EV&&!this.fiRecorded){var n=Math.round(r.timeStamp),i={type:r.type};this.addConnectionAttributes(i),n<=(0,w.zO)()?i.fid=(0,w.zO)()-n:n>(0,w.os)()&&n<=Date.now()?(n-=(0,w.os)(),i.fid=(0,w.zO)()-n):n=(0,w.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",n,i],void 0,e.D.pageViewTiming,this.ee)}}}!function(e,t,r){t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r}(R,"featureName",N.t);var B=i(4045),M="React",V="Angular",q="AngularJS",L="Backbone",z="Ember",W="Vue",$="Meteor",F="Zepto",G="Jquery";function Z(){if(!S.il)return[];var e=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var e=document.querySelectorAll("body > div"),t=0;t<e.length;t++)if(Object.keys(e[t]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(e){return!1}})()&&e.push(M),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(e){return!1}}()&&e.push(q),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(e){return!1}}()&&e.push(V),window.Backbone&&e.push(L),window.Ember&&e.push(z),window.Vue&&e.push(W),window.Meteor&&e.push($),window.Zepto&&e.push(F),window.jQuery&&e.push(G)}catch(e){}return e}var U=i(9548),H=i(9226),X=i(8226);const Q=Boolean(S._A?.Worker),K=Boolean(S._A?.SharedWorker),J=Boolean(S._A?.navigator?.serviceWorker);let Y,ee,te;var re=i(6034);class ne extends D{constructor(e,t){var r;let n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,re.t,i),r=this,this.PfFeatStatusEnum=n,this.singleChecks(),this.eachSessionChecks(),(0,B.X)("record-supportability",(function(){return r.recordSupportability(...arguments)}),this.featureName,this.ee),(0,B.X)("record-custom",(function(){return r.recordCustom(...arguments)}),this.featureName,this.ee),this.importAggregator()}recordSupportability(e,t){var r=["sm",e,{name:e},t];return(0,b.p)("storeMetric",r,null,this.featureName,this.ee),r}recordCustom(e,t){var r=["cm",e,{name:e},t];return(0,b.p)("storeEventMetrics",r,null,this.featureName,this.ee),r}singleChecks(){this.recordSupportability(`Generic/Version/${X.q}/Detected`);const{loaderType:e}=(0,t.OP)(this.agentIdentifier);e&&this.recordSupportability(`Generic/LoaderType/${e}/Detected`),S.il&&(0,O.K)((()=>{Z().forEach((e=>{this.recordSupportability("Framework/"+e+"/Detected")}))})),U.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),U.T.supportabilityMetricSent=!0);const r=(0,H.$c)(this.agentIdentifier);r.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),r.length>0&&!(0,H.Ng)(r)&&this.recordSupportability("Generic/Obfuscate/Invalid"),S.il&&this.reportPolyfillsNeeded(),function(e){if(!Y){if(Q){Y=Worker;try{S._A.Worker=r(Y,"Dedicated")}catch(e){o(e,"Dedicated")}if(K){ee=SharedWorker;try{S._A.SharedWorker=r(ee,"Shared")}catch(e){o(e,"Shared")}}else n("Shared");if(J){te=navigator.serviceWorker.register;try{S._A.navigator.serviceWorker.register=(t=te,function(){for(var e=arguments.length,r=new Array(e),n=0;n<e;n++)r[n]=arguments[n];return i("Service",r[1]?.type),t.apply(navigator.serviceWorker,r)})}catch(e){o(e,"Service")}}else n("Service");var t;return}n("All")}function r(e,t){return new Proxy(e,{construct:(e,r)=>(i(t,r[1]?.type),new e(...r))})}function n(t){S.v6||e(`Workers/${t}/Unavailable`)}function i(t,r){e("module"===r?`Workers/${t}/Module`:`Workers/${t}/Classic`)}function o(t,r){e(`Workers/${r}/SM/Unsupported`),(0,m.Z)(`NR Agent: Unable to capture ${r} workers.`,t)}}(this.recordSupportability.bind(this))}reportPolyfillsNeeded(){this.recordSupportability(`Generic/Polyfill/Promise/${this.PfFeatStatusEnum.PROMISE}`),this.recordSupportability(`Generic/Polyfill/ArrayIncludes/${this.PfFeatStatusEnum.ARRAY_INCLUDES}`),this.recordSupportability(`Generic/Polyfill/ObjectAssign/${this.PfFeatStatusEnum.OBJECT_ASSIGN}`),this.recordSupportability(`Generic/Polyfill/ObjectEntries/${this.PfFeatStatusEnum.OBJECT_ENTRIES}`)}eachSessionChecks(){S.il&&(0,I.bP)("pageshow",(e=>{e.persisted&&this.recordCustom("Custom/BFCache/PageRestored")}))}}!function(e,t,r){t in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r}(ne,"featureName",re.t);new class{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,v.ky)(16);this.agentIdentifier=r,this.sharedAggregator=new d({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=t.features||[],this.desiredFeatures.sort(((t,r)=>e.p[t.featureName]-e.p[r.featureName])),Object.assign(this,(0,a.j)(this.agentIdentifier,t,t.loaderType||"agent")),this.start()}get config(){return{info:(0,t.C5)(this.agentIdentifier),init:(0,t.P_)(this.agentIdentifier),loader_config:(0,t.DL)(this.agentIdentifier),runtime:(0,t.OP)(this.agentIdentifier)}}start(){try{const e=n(this.agentIdentifier);this.desiredFeatures.forEach((t=>{if(e[t.featureName]){const r=(0,s.Z)(t.featureName);r.every((t=>e[t]))||(0,m.Z)(`${t.featureName} is enabled but one or more dependent features has been disabled (${JSON.stringify(r)}). This may cause unintended consequences or missing data...`),this.features[t.featureName]=new t(this.agentIdentifier,this.sharedAggregator)}})),(0,p.Qy)(this.agentIdentifier,this.features,"features")}catch(e){return(0,m.Z)("Failed to initialize instrument classes",e),!1}}}({features:[P,R,ne],loaderType:"lite"})})(),window.NRBA=o})();</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="csrf-name" content="csrf63eccb9dd6dd6">
+	<meta name="csrf-value" content="d56fcac3fbd7955e2a54641d730e1c5f">
+	
+	<meta name="cart-hash" content="d751713988987e9331980363e24189ce">
+	<meta name="live-settings" content="[]">
+	<meta name="twitter:site" content="@VectorStock">
+	<meta property="og:site_name" content="VectorStock">
+	<meta property="fb:app_id" content="241100862642313">
+
+	<link rel="shortcut icon" href="https://cdn.vectorstock.com/img/icons/favicon.ico" type="image/x-icon">
+	<link rel="search" type="application/opensearchdescription+xml" title="VectorStock Search" href="https://www.vectorstock.com/xml/searchbox.xml">
+	<title>Hand sketched bienvenue quote in french Royalty Free Vector</title>
+	<meta name="description" content="Hand sketched Bienvenue quote in French. Translated Welcome. Lettering for poster, flyer, header, card, advertisement, announcement. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+		<meta name="robots" content="max-image-preview:large">
+	
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644">
+	<meta property="og:title" content="Hand sketched bienvenue quote in french vector image on VectorStock">
+	<meta property="og:description" content="Hand sketched Bienvenue quote in French. Translated Welcome. Lettering for poster, flyer, header, card, advertisement, announcement. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+	<meta property="og:image" content="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+	<meta property="og:image:url" content="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+	<meta property="og:image:secure_url" content="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="1000">
+	<meta property="og:image:height" content="700">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644">
+	<meta name="twitter:title" content="Hand sketched bienvenue quote in french vector image">
+	<meta name="twitter:description" content="Hand sketched Bienvenue quote in French. Translated Welcome. Lettering for poster, flyer, header, card, advertisement, announcement.">
+	<meta name="twitter:image" content="https://cdn5.vectorstock.com/i/thumb-large/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+	<meta name="twitter:image:width" content="238">
+	<meta name="twitter:image:height" content="250">
+
+	<link rel="canonical" href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644">
+
+	<link rel="stylesheet" type="text/css" href="./bienvenus_files/common1675717942.min.css">
+	<link rel="stylesheet" type="text/css" href="./bienvenus_files/common-payment1675717942.min.css">
+	<link rel="stylesheet" type="text/css" href="./bienvenus_files/vector1675717942.min.css">
+	<script nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU=">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NL6HLLR');</script>
+	<script src="./bienvenus_files/common1676416388.min.js.téléchargement"></script>
+	<script src="./bienvenus_files/common-payment-paddle1676416388.min.js.téléchargement"></script>
+	<script src="./bienvenus_files/vector1676416388.min.js.téléchargement"></script>
+	<link rel="preload" href="https://cdn.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.webp" as="image" type="image/webp">
+<meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="./bienvenus_files/f.txt" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU="></script></head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NL6HLLR"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- Top header -->
+<header>
+	<nav class="top">
+		<figure>
+			<a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a>
+		</figure>
+
+		<div class="grid">
+			<form id="searchbox" class="empty">
+				<div class="wrap">
+					<fieldset>
+						<div class="contents">
+							<div class="tags">
+								<ul></ul>
+							</div>
+							<div class="input">
+								<input type="text" name="input" autocomplete="off" autocapitalize="none" spellcheck="true" value="" placeholder="Search…" maxlength="50" autofocus="">
+								<button type="button" data-action="clear">×</button>
+							</div>
+
+							<input type="hidden" name="category" value="">
+							<input type="hidden" name="custom_srp" value="">
+							<input type="hidden" name="artist" value="">
+							<input type="hidden" name="similar" value="">
+						</div>
+					<div class="suggestions"><div></div></div></fieldset>
+
+					<button type="submit">
+						<span class="icon">Search</span>
+					</button>
+				</div>
+			</form>
+			<ul>
+				<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+				<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+			</ul>
+		</div>
+
+		<div class="aside">
+			<ul>
+				<li><a href="https://www.vectorstock.com/popular-categories" title="Popular Categories">Categories</a></li>
+				<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+				<li class="account">
+					<button type="button" data-action="signup">Sign Up</button>
+					<button type="button" data-action="login">Login</button>
+				</li>
+			</ul>
+		</div>
+
+		<div id="mobilenav-icon">
+			<span></span><span></span><span></span><span></span>
+		</div>
+	</nav>
+
+	<!-- Submenu -->
+	<nav id="searchrelated"></nav>	
+
+	<!-- Mobile menu -->
+	<div id="mobilenav-menu">
+		<div>
+			<div class="group">
+				<h4>Browse</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+					<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+				</ul>
+			</div>
+			<div class="group">
+				<h4>Account</h4>
+				<ul>
+					<li class="account">
+						<ul>
+							<li><a href="https://www.vectorstock.com/signup">Sign Up</a></li>
+							<li data-action="login"><a href="https://www.vectorstock.com/?login=1">Login…</a></li>
+							<li><a href="https://www.vectorstock.com/pricing">Pricing</a></li>
+						</ul>
+					</li>
+				</ul>
+				<form method="get" action="https://www.vectorstock.com/auth/logout" class="logout">
+					<input type="hidden" name="logout" value="1">
+				</form>
+			</div>
+			<div class="group">
+				<h4>Help</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/faq"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
+					<li><a href="https://www.vectorstock.com/contact">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+		<!-- Account Menu Tabs -->
+		<aside id="nav_sidebar" class="tabs tabsDark">
+
+			<nav>
+				<ul role="tablist">
+					<li data-tab-id="signup" class=""><span role="tab"><span>Sign Up</span></span></li>
+					<li data-tab-id="login" class="selected"><span role="tab"><span>Login</span></span></li>
+				</ul>
+			</nav>
+
+			<section id="sb_signup" data-tab-id="signup" class="">
+				<div class="primary">
+					<p>New to VectorStock?</p>
+					<p><em>We're the largest royalty-free, vector-only stock agency in the world.</em></p>
+					<p>Every week we add new premium graphics by the thousands.</p>
+				</div>
+				<div class="secondary">
+					<p>Whether you're a global ad&nbsp;agency or a freelance graphic designer, we have the vector graphics to make your project come to life.</p>
+					<p>Buy Vectors, sell Vectors or both. <a href="https://www.vectorstock.com/signup">Sign up now, it’s free.</a></p>
+				</div>
+				<div class="footer">
+					<button class="master">
+						<span class="title">Sign Up...</span>
+						<span class="value">
+							<span class="symbol signup"></span>
+						</span>
+					</button>
+				</div>
+			</section>
+
+			<section id="sb_login" data-tab-id="login" class="selected">
+				<form action="https://www.vectorstock.com/auth/login" method="post">
+					<fieldset class="">
+						<label for="vs_username">Email / Username</label>
+						<div class="textfield">
+							<input type="text" id="vs_username" name="vs_username" value="" autocomplete="on" tabindex="1">
+						</div>
+					</fieldset>
+					<fieldset class="">
+						<label for="vs_password">Password</label>
+						<button type="button" class="forgot">Forgot Password</button>
+						<div class="textfield">
+							<input type="password" id="vs_password" name="vs_password" value="" autocomplete="on" tabindex="2" maxlength="72">
+						</div>
+					</fieldset>
+
+
+					<button type="submit" tabindex="4">Login</button>
+				</form>
+				<div class="alternatives">
+					<h6>Or Login With</h6>
+					<ul>
+						<li class="gp"><a href="https://www.vectorstock.com/">
+							<span class="title">Google</span>
+							<span class="icon"></span>
+						</a></li>
+						<li class="fb"><a href="https://www.vectorstock.com/">
+							<span class="title">Facebook</span>
+							<span class="icon"></span>
+						</a></li>
+					</ul>
+				</div>
+
+
+			</section>
+		</aside>
+
+	<!-- Page -->
+	<article>
+		<section id="vs-asset" style="max-width: 994.286px;">
+
+			<!-- Aside -->
+			<div class="aside">
+				<ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors">
+							<span itemprop="name">Royalty Free Vectors</span>
+						</a>
+						<meta itemprop="position" content="1">
+					</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors/bienvenue-vectors">
+							<span itemprop="name">Bienvenue Vectors</span>
+						</a>
+						<meta itemprop="position" content="2">
+					</li>
+				</ol>
+
+				<h1>Hand sketched bienvenue quote in french vector&nbsp;image</h1>
+
+				<figure class="target reveal">
+					<div class="highres" data-src="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg" style="padding-top: 69.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.webp">
+							<source type="image/jpeg" srcset="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+							<img src="./bienvenus_files/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg" importance="high" title="Hand sketched bienvenue quote in french vector image" alt="Hand sketched bienvenue quote in french">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+				</figure>
+
+				<form data-loggedin="0" data-licenses="2" data-license="standard" data-status="" data-payment="single-image">
+					<input type="hidden" id="vector_id" value="31473644">
+					<input type="hidden" id="vector_title" value="Hand sketched bienvenue quote in french">
+					<input type="hidden" id="vector_description" value="Hand sketched Bienvenue quote in French. Translated Welcome. Lettering for poster, flyer, header, card, advertisement, announcement. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+					<input type="hidden" id="vector_url" value="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644">
+					<input type="hidden" id="vector_media" value="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+					<input type="hidden" id="vector_ratio" value="0.7">
+					<input type="hidden" id="vector_license_status" value="">
+					<input type="hidden" id="artist_name" value="Alenasia">
+					<input type="hidden" id="account_user" value="0">
+					<input type="hidden" id="vector_transparent_png" value="0">
+					<input type="hidden" id="vector_download_urls" value="[]">
+					<input type="hidden" id="vector_license_options" value="[{&quot;type&quot;:&quot;standard&quot;,&quot;label&quot;:&quot;Standard License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:14.99,&quot;credits&quot;:1,&quot;subscription&quot;:1}},{&quot;type&quot;:&quot;expanded&quot;,&quot;label&quot;:&quot;Expanded License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:39.99,&quot;credits&quot;:30}}]">
+					<input type="hidden" id="account_filetype" value="zip">
+					<input type="hidden" id="account_customizations" value="[]">
+					<input type="hidden" id="account_cloud" value="[{&quot;type&quot;:&quot;googledrive&quot;,&quot;status&quot;:&quot;connect&quot;}]">
+					
+					<div class="options">
+						<!--
+						-- OPTION: License type
+						-->
+						<div class="option" data-type="license" data-license="standard" data-licenses="2">
+							<h6><span class="type">License</span><a href="https://www.vectorstock.com/faq/members/standard-license">Learn More</a></h6>
+							<div class="optgroup radgroup">
+								<fieldset class="checked">
+									<label for="f_license_standard">
+										<input type="radio" id="f_license_standard" name="license" value="standard" checked="checked" tabindex="2">
+										<span class="label">Standard</span>
+										<span class="descr">You can use the vector for personal and commercial purposes.</span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_license_expanded">
+										<input type="radio" id="f_license_expanded" name="license" value="expanded" tabindex="4">
+										<span class="label">Expanded</span>
+										<span class="descr">You can use the vector on items for resale and print-on-demand.</span>
+									</label>
+								</fieldset>
+							</div>
+
+							<div class="help">
+								<p>The license type determines how you can use this image.</p>
+								<table>
+									<thead>
+										<tr>
+											<th></th>
+																						<th data-license="standard">Std.</th>																						<th data-license="expanded">Exp.</th>										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td>Print / Editorial</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Graphic Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Web Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Social Media</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Edit &amp; Modify</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Multi-user</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Resale Items</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Print on Demand</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: License type: Exclusive
+						-->
+						<div class="option" data-type="ownership">
+							<h6>
+								<span class="type">Ownership</span>
+								<a href="https://www.vectorstock.com/faq/members/what-is-an-exclusive-buyout">Learn More</a>
+							</h6>
+							<div class="optgroup radgroup" data-id="rights" data-enabled="0">
+								<fieldset>
+									<label for="f_ownership_exclusive">
+										<input type="radio" id="f_ownership_exclusive" name="license" value="exclusive" tabindex="4">
+										<span class="label">Exclusive</span>
+										<span class="descr">If you would like to buy this vector exclusively, send the artist a request below:</span>
+										<button type="button" data-copy-process="Sending request" data-copy-success="Request has been sent">
+											<span class="icon"></span>
+											<span class="label">Ask for Exclusive Buyout</span>
+										</button>
+									</label>
+								</fieldset>
+							</div>
+							
+							<div class="help">
+								<p>Want to have this vector image all to yourself? An Exclusive Buyout secures the full rights of this vector.</p>
+								<p>We will remove this vector from our library and the artist will cease selling the&nbsp;artwork.</p>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: Payment options (Standard)
+						-->
+						<div class="option" data-type="payment" data-license="standard">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/pricing">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="standard">
+								<fieldset class="checked">
+									<label for="f_payment_standard_single-image">
+										<input type="radio" id="f_payment_standard_single-image" name="payment_standard" data-cost="14.99" value="single-image" checked="checked" tabindex="5">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>14.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_credits">
+										<input type="radio" id="f_payment_standard_credits" name="payment_standard" data-cost="1" value="credits" tabindex="6">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>1.00</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_subscription">
+										<input type="radio" id="f_payment_standard_subscription" name="payment_standard" data-cost="1" value="subscription" tabindex="7">
+										<span class="label">Subscription</span>
+										<span class="value"><small>$</small><var>0.69</var></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>There are three ways to pay for Standard licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Image Price</th>
+										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>14.99</span>
+												</span>
+												<span class="byline">One-time payment</span>
+											</td>
+										</tr>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>1</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1). Minimum purchase of 30.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Subscription Plan</span>
+													<span class="dm"></span>
+													<span class="dd"><em>From</em> 69¢</span>
+												</span>
+												<span class="byline">Choose a monthly plan. Unused downloads automatically roll into following month.</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Payment options (Expanded)
+						-->
+						<div class="option" data-type="payment" data-license="expanded">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/faq/members/ways-to-buy">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="expanded">
+								<fieldset class="checked">
+									<label for="f_payment_expanded_single-image">
+										<input type="radio" id="f_payment_expanded_single-image" name="payment_expanded" data-cost="39.99" value="single-image" checked="checked" tabindex="8">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>39.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_expanded_credits">
+										<input type="radio" id="f_payment_expanded_credits" name="payment_expanded" data-cost="30" value="credits" tabindex="9">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>30.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+														<div class="help">
+								<p>There are two ways to pay for Expanded licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Cost per Image</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>39.99</span>
+												</span>
+												<span class="byline">One-off payment, no signup needed.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>30</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1).</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+													</div>
+						<!--
+						-- OPTION: Payment options (Exclusive)
+						-->
+						<div class="option" data-type="payment" data-license="exclusive">
+							<h6><span class="type">Payment</span></h6>
+							<div class="optgroup radgroup" data-license="exclusive">
+								<fieldset class="checked">
+									<label for="f_payment_exclusive_ppi">
+										<input type="radio" id="f_payment_exclusive_ppi" name="payment_exclusive" data-cost="499" value="single-image" checked="checked" tabindex="8">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>499</var></span>
+									</label>
+								</fieldset>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Customization
+						-->
+						<div class="option" data-type="customization">
+							<h6><span class="type">Extra Services</span><a href="https://www.vectorstock.com/faq/members/what-is-hire-a-designer">Learn More</a></h6>
+							<div class="optgroup chkgroup">
+								<fieldset>
+									<label for="f_payment_customization">
+										<input type="checkbox" id="f_payment_customization" name="payment_customization" data-cost="85" value="customization" tabindex="12">
+										<span class="label">Customize image</span>
+										<span class="descr">Only available with Pay-per-Image</span>
+										<span class="value"><small>$</small><var>85.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>Love the image but just need a few modifications? Let our talented artists do the work for you!</p>
+								<p>We’ll connect you with a designer who can make updates and send you the artwork in a format of your choice.</p>
+								<h4>Examples</h4>
+								<ul>
+									<li>Change the text</li>
+									<li>Modify colors</li>
+									<li>Resize to new dimensions</li>
+									<li>Include logo or symbol</li>
+									<li>Add your company or business name</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="download">
+						<button type="button" data-action="download">
+							<span class="label">Download Image</span>
+							<span class="icon"></span>
+						</button>
+						<h6><span class="label">Files Included</span></h6>
+						<div class="help">
+							<span class="loading"><span class="label">Loading Details...</span></span>
+						</div>
+					</div>
+				</form>
+			</div>
+
+			<!-- Image -->
+			<div class="image">
+				<figure data-orientation="landscape" class="target reveal">
+					<div class="highres" data-src="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg" style="padding-top: 69.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.webp">
+							<source type="image/jpeg" srcset="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+							<img src="./bienvenus_files/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg" importance="high" title="Hand sketched bienvenue quote in french vector image" alt="Hand sketched bienvenue quote in french">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+					<div class="panels">
+						<div class="share">
+							<ul>
+								<li><button type="button" data-action="pinterest"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M12.5,0C5.6,0,0,5.6,0,12.5c0,5.12,3.08,9.52,7.48,11.45c-0.03-0.87-0.01-1.92,0.22-2.87c0.24-1.01,1.61-6.81,1.61-6.81s-0.4-0.8-0.4-1.98c0-1.85,1.07-3.24,2.41-3.24c1.14,0,1.69,0.85,1.69,1.88c0,1.14-0.73,2.85-1.1,4.44c-0.31,1.33,0.67,2.41,1.97,2.41c2.37,0,3.96-3.04,3.96-6.65c0-2.74-1.85-4.79-5.2-4.79c-3.79,0-6.15,2.83-6.15,5.99c0,1.09,0.32,1.86,0.82,2.45c0.23,0.27,0.26,0.38,0.18,0.7c-0.06,0.23-0.2,0.78-0.25,1c-0.08,0.32-0.34,0.43-0.63,0.31c-1.75-0.71-2.56-2.62-2.56-4.77c0-3.55,3-7.81,8.93-7.81c4.77,0,7.91,3.45,7.91,7.16c0,4.9-2.73,8.57-6.75,8.57c-1.35,0-2.62-0.73-3.05-1.56c0,0-0.73,2.88-0.88,3.44c-0.27,0.96-0.78,1.93-1.26,2.68C10.08,24.82,11.27,25,12.5,25C19.4,25,25,19.4,25,12.5S19.4,0,12.5,0L12.5,0z"></path></svg></span><span class="label">Save to Pinterest</span></button></li>
+								<li><button type="button" data-action="facebook"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M22.44,1H2.56C1.7,1,1,1.7,1,2.56v19.88C1,23.3,1.7,24,2.56,24h10.41v-8.89H9.98v-3.46h2.99V9.1c0-2.96,1.81-4.58,4.45-4.58c1.27,0,2.35,0.09,2.67,0.14v3.1l-1.83,0c-1.44,0-1.72,0.68-1.72,1.69v2.21h3.43l-0.45,3.46h-2.98V24h5.89C23.3,24,24,23.3,24,22.44V2.56C24,1.7,23.3,1,22.44,1z"></path></svg></span><span class="label">Post to Facebook</span></button></li>
+								<li><button type="button" data-action="twitter"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M7.86,22.5c9.43,0,14.59-7.69,14.59-14.37c0-0.22,0-0.44-0.01-0.65c1-0.71,1.87-1.6,2.56-2.61c-0.92,0.4-1.91,0.67-2.95,0.79c1.06-0.62,1.87-1.61,2.26-2.79c-0.99,0.58-2.09,1-3.26,1.23c-0.94-0.98-2.27-1.6-3.74-1.6c-2.83,0-5.13,2.26-5.13,5.05c0,0.4,0.05,0.78,0.13,1.15C8.05,8.49,4.27,6.48,1.74,3.42C1.3,4.17,1.05,5.04,1.05,5.96c0,1.75,0.91,3.3,2.28,4.2C2.49,10.14,1.7,9.91,1,9.53C1,9.55,1,9.58,1,9.6c0,2.45,1.77,4.49,4.11,4.95c-0.43,0.12-0.88,0.18-1.35,0.18c-0.33,0-0.65-0.03-0.96-0.09c0.65,2.01,2.55,3.47,4.79,3.51C5.84,19.5,3.63,20.3,1.22,20.3c-0.41,0-0.82-0.02-1.22-0.07C2.27,21.66,4.97,22.5,7.86,22.5"></path></svg></span><span class="label">Post to Twitter</span></button></li>
+							</ul>
+							<ul>
+								<li><button type="button" data-action="email"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M24.37,2.25c-0.07,0-0.15,0.01-0.22,0.04l-2.75,1L0.24,12.14c-0.3,0.13-0.33,0.54-0.05,0.71l3.94,2.39l0.99,0.6l1.94,5.58c0.05,0.14,0.25,0.1,0.25-0.04l0.03-4.19v-0.05l8.87-7.49c0.15-0.13,0.37-0.12,0.52,0.01l0,0c0.17,0.15,0.17,0.42,0.01,0.58L8.85,18v0.18l7.53,4.52c0.21,0.13,0.48,0.04,0.57-0.19l7.89-19.11l0.11-0.28C25.13,2.68,24.8,2.25,24.37,2.25z"></path></svg></span><span class="label">Send by Email</span></button></li>
+							</ul>
+						</div>
+						<div class="composite">
+							<button type="button" data-action="download"><span><span class="label">Download JPG Preview Image</span></span></button>
+						</div>
+					</div>
+				</figure>
+				<div class="details">
+					<div class="meta">
+						<ul>
+							<li class="meta-id">
+								<dl><dt>Image ID</dt><dd>31473644</dd></dl>
+							</li>
+							<li class="meta-color-mode">
+								<dl><dt>Color Mode</dt><dd>RGB</dd></dl>
+							</li>
+							<li class="meta-artist">
+								<dl>
+									<dt>Artist</dt>
+									<dd>
+										<a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Alenasia" rel="nofollow">Alenasia</a>
+										<button type="button" data-action="follow" title="Follow Artists that you like to create a newsfeed of their recent images."><span class="label">Follow</span></button>
+									</dd>
+								</dl>
+							</li>
+						</ul>
+					</div>
+					<div class="options" data-total="2">
+						<ul>
+							<li class="opt-like">
+								<button type="button" data-action="like" data-count="0"><span class="icon">♥</span><span class="label">Like</span><span class="tally"></span></button>
+							</li>
+							<li class="opt-cart">
+								<button type="button" data-action="cart"><span class="icon">+</span><span class="label">Cart</span></button>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Metadata -->
+			<div class="metadata">
+				<div itemtype="http://schema.org/ImageObject" itemscope="">
+					<meta itemprop="contentUrl" content="https://cdn5.vectorstock.com/i/1000x1000/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+					<meta itemprop="thumbnailUrl" content="https://cdn5.vectorstock.com/i/thumb-large/36/44/hand-sketched-bienvenue-quote-in-french-vector-31473644.jpg">
+					<meta itemprop="name" content="Hand sketched bienvenue quote in french">
+					<meta itemprop="description" content="Hand sketched Bienvenue quote in French. Translated Welcome. Lettering for poster, flyer, header, card, advertisement, announcement. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images. vector image">
+					<meta itemprop="author" content="Alenasia">
+					<meta itemprop="datePublished" content="2020-06-02">
+					<meta itemprop="license" content="https://www.vectorstock.com/faq/members/standard-license">
+					<meta itemprop="acquireLicensePage" content="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31473644">
+					<meta itemprop="sourceOrganization" content="VectorStock.com">
+				</div>
+			</div>
+
+		</section>
+
+
+		<section id="vs-related">
+			<div id="group-similar" class="group">
+				<h6><span class="icon"></span><strong>Similar Images</strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="44690302" style="width: 452px; height: 231px; order: 0; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/bienvenue-word-continuous-one-line-with-word-vector-44690302" style="height: 221px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.webp 2x, https://cdn.vectorstock.com/i/preview-1x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.webp 3x, https://cdn.vectorstock.com/i/preview-1x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.webp 2x, https://cdn.vectorstock.com/i/preview-lt/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/03/02/bienvenue-word-continuous-one-line-with-word-vector-44690302.jpg 1.5x">
+								<img src="./bienvenus_files/bienvenue-word-continuous-one-line-with-word-vector-44690302.jpg" data-id="44690302" data-title="bienvenue word - continuous one line with word" data-ratio="2" alt="Bienvenue word - continuous one line with word vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21048932" style="width: 231px; height: 231px; order: 1;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/welcome-to-france-card-with-flag-of-france-vector-21048932" style="height: 221px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.webp 2x, https://cdn.vectorstock.com/i/preview-1x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.webp 3x, https://cdn.vectorstock.com/i/preview-1x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.webp 2x, https://cdn.vectorstock.com/i/preview-lt/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/89/32/welcome-to-france-card-with-flag-of-france-vector-21048932.jpg 1.5x">
+								<img src="./bienvenus_files/welcome-to-france-card-with-flag-of-france-vector-21048932.jpg" data-id="21048932" data-title="welcome to france card with flag of france" data-ratio="1" alt="Welcome to france card with flag of france vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="35007161" style="width: 231px; height: 231px; order: 2;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/normandy-vintage-3d-alphabet-set-vector-35007161" style="height: 221px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.webp 2x, https://cdn.vectorstock.com/i/preview-1x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.webp 3x, https://cdn.vectorstock.com/i/preview-1x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.webp 2x, https://cdn.vectorstock.com/i/preview-lt/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/71/61/normandy-vintage-3d-alphabet-set-vector-35007161.jpg 1.5x">
+								<img src="./bienvenus_files/normandy-vintage-3d-alphabet-set-vector-35007161.jpg" data-id="35007161" data-title="normandy vintage 3d alphabet set" data-ratio="1" alt="Normandy vintage 3d alphabet set vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="38811601" style="width: 404px; height: 231px; order: 3;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/dog-domestic-animal-landing-header-vector-38811601" style="height: 221px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/01/dog-domestic-animal-landing-header-vector-38811601.webp 2x, https://cdn.vectorstock.com/i/preview-1x/16/01/dog-domestic-animal-landing-header-vector-38811601.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/16/01/dog-domestic-animal-landing-header-vector-38811601.webp 3x, https://cdn.vectorstock.com/i/preview-1x/16/01/dog-domestic-animal-landing-header-vector-38811601.webp 2x, https://cdn.vectorstock.com/i/preview-lt/16/01/dog-domestic-animal-landing-header-vector-38811601.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/01/dog-domestic-animal-landing-header-vector-38811601.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/16/01/dog-domestic-animal-landing-header-vector-38811601.jpg 1.5x">
+								<img src="./bienvenus_files/dog-domestic-animal-landing-header-vector-38811601.jpg" data-id="38811601" data-title="dog domestic animal landing header" data-ratio="1.78" alt="Dog domestic animal landing header vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="23933575" style="width: 213px; height: 222px; order: 4;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/mali-flag-on-a-white-vector-23933575" style="height: 212px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/35/75/mali-flag-on-a-white-vector-23933575.webp 2x, https://cdn.vectorstock.com/i/preview-1x/35/75/mali-flag-on-a-white-vector-23933575.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/35/75/mali-flag-on-a-white-vector-23933575.webp 3x, https://cdn.vectorstock.com/i/preview-1x/35/75/mali-flag-on-a-white-vector-23933575.webp 2x, https://cdn.vectorstock.com/i/preview-lt/35/75/mali-flag-on-a-white-vector-23933575.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/35/75/mali-flag-on-a-white-vector-23933575.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/35/75/mali-flag-on-a-white-vector-23933575.jpg 1.5x">
+								<img src="./bienvenus_files/mali-flag-on-a-white-vector-23933575.jpg" data-id="23933575" data-title="mali flag on a white" data-ratio="0.956" alt="Mali flag on a white vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="30547835" style="width: 434px; height: 222px; order: 5;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/tally-marks-vector-30547835" style="height: 212px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/78/35/tally-marks-vector-30547835.webp 2x, https://cdn.vectorstock.com/i/preview-1x/78/35/tally-marks-vector-30547835.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/78/35/tally-marks-vector-30547835.webp 3x, https://cdn.vectorstock.com/i/preview-1x/78/35/tally-marks-vector-30547835.webp 2x, https://cdn.vectorstock.com/i/preview-lt/78/35/tally-marks-vector-30547835.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/78/35/tally-marks-vector-30547835.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/78/35/tally-marks-vector-30547835.jpg 1.5x">
+								<img src="./bienvenus_files/tally-marks-vector-30547835.jpg" data-id="30547835" data-title="tally marks" data-ratio="2" alt="Tally marks vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21143749" style="width: 222px; height: 222px; order: 6;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/wine-icon-vector-21143749" style="height: 212px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/49/wine-icon-vector-21143749.webp 2x, https://cdn.vectorstock.com/i/preview-1x/37/49/wine-icon-vector-21143749.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/37/49/wine-icon-vector-21143749.webp 3x, https://cdn.vectorstock.com/i/preview-1x/37/49/wine-icon-vector-21143749.webp 2x, https://cdn.vectorstock.com/i/preview-lt/37/49/wine-icon-vector-21143749.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/37/49/wine-icon-vector-21143749.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/37/49/wine-icon-vector-21143749.jpg 1.5x">
+								<img src="./bienvenus_files/wine-icon-vector-21143749.jpg" data-id="21143749" data-title="wine icon" data-ratio="1" alt="Wine icon vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="42314112" style="width: 228px; height: 222px; order: 7;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/musicial-instruments-icons-isolated-line-art-set-vector-42314112" style="height: 212px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.webp 2x, https://cdn.vectorstock.com/i/preview-1x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.webp 3x, https://cdn.vectorstock.com/i/preview-1x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.webp 2x, https://cdn.vectorstock.com/i/preview-lt/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/41/12/musicial-instruments-icons-isolated-line-art-set-vector-42314112.jpg 1.5x">
+								<img src="./bienvenus_files/musicial-instruments-icons-isolated-line-art-set-vector-42314112.jpg" data-id="42314112" data-title="musicial instruments icons isolated line art set" data-ratio="1.028" alt="Musicial instruments icons isolated line art set vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37063638" style="width: 222px; height: 222px; order: 8;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/20-anniversary-red-blue-logo-vector-37063638" style="height: 212px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/36/38/20-anniversary-red-blue-logo-vector-37063638.webp 2x, https://cdn.vectorstock.com/i/preview-1x/36/38/20-anniversary-red-blue-logo-vector-37063638.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/36/38/20-anniversary-red-blue-logo-vector-37063638.webp 3x, https://cdn.vectorstock.com/i/preview-1x/36/38/20-anniversary-red-blue-logo-vector-37063638.webp 2x, https://cdn.vectorstock.com/i/preview-lt/36/38/20-anniversary-red-blue-logo-vector-37063638.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/36/38/20-anniversary-red-blue-logo-vector-37063638.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/36/38/20-anniversary-red-blue-logo-vector-37063638.jpg 1.5x">
+								<img src="./bienvenus_files/20-anniversary-red-blue-logo-vector-37063638.jpg" data-id="37063638" data-title="20 anniversary red blue logo" data-ratio="1" alt="20 anniversary red blue logo vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="27092750" style="width: 432px; height: 221px; order: 9; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/high-quality-map-oceania-vector-27092750" style="height: 211px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/50/high-quality-map-oceania-vector-27092750.webp 2x, https://cdn.vectorstock.com/i/preview-1x/27/50/high-quality-map-oceania-vector-27092750.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/27/50/high-quality-map-oceania-vector-27092750.webp 3x, https://cdn.vectorstock.com/i/preview-1x/27/50/high-quality-map-oceania-vector-27092750.webp 2x, https://cdn.vectorstock.com/i/preview-lt/27/50/high-quality-map-oceania-vector-27092750.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/50/high-quality-map-oceania-vector-27092750.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/27/50/high-quality-map-oceania-vector-27092750.jpg 1.5x">
+								<img src="./bienvenus_files/high-quality-map-oceania-vector-27092750.jpg" data-id="27092750" data-title="high quality map oceania" data-ratio="2" alt="High quality map oceania vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21892751" style="width: 221px; height: 221px; order: 10; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/chef-hat-icon-design-vector-21892751" style="height: 211px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/51/chef-hat-icon-design-vector-21892751.webp 2x, https://cdn.vectorstock.com/i/preview-1x/27/51/chef-hat-icon-design-vector-21892751.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/27/51/chef-hat-icon-design-vector-21892751.webp 3x, https://cdn.vectorstock.com/i/preview-1x/27/51/chef-hat-icon-design-vector-21892751.webp 2x, https://cdn.vectorstock.com/i/preview-lt/27/51/chef-hat-icon-design-vector-21892751.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/51/chef-hat-icon-design-vector-21892751.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/27/51/chef-hat-icon-design-vector-21892751.jpg 1.5x">
+								<img src="./bienvenus_files/chef-hat-icon-design-vector-21892751.jpg" data-id="21892751" data-title="chef hat icon design" data-ratio="1" alt="Chef hat icon design vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="42812483" style="width: 221px; height: 221px; order: 11; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/france-line-icons-circle-vector-42812483" style="height: 211px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/24/83/france-line-icons-circle-vector-42812483.webp 2x, https://cdn.vectorstock.com/i/preview-1x/24/83/france-line-icons-circle-vector-42812483.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/24/83/france-line-icons-circle-vector-42812483.webp 3x, https://cdn.vectorstock.com/i/preview-1x/24/83/france-line-icons-circle-vector-42812483.webp 2x, https://cdn.vectorstock.com/i/preview-lt/24/83/france-line-icons-circle-vector-42812483.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/24/83/france-line-icons-circle-vector-42812483.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/24/83/france-line-icons-circle-vector-42812483.jpg 1.5x">
+								<img src="./bienvenus_files/france-line-icons-circle-vector-42812483.jpg" data-id="42812483" data-title="france line icons circle" data-ratio="1" alt="France line icons circle vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="43588010" style="width: 221px; height: 221px; order: 12;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/double-braces-symmetric-curly-brackets-pair-vector-43588010" style="height: 211px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.webp 2x, https://cdn.vectorstock.com/i/preview-1x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.webp 3x, https://cdn.vectorstock.com/i/preview-1x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.webp 2x, https://cdn.vectorstock.com/i/preview-lt/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/80/10/double-braces-symmetric-curly-brackets-pair-vector-43588010.jpg 1.5x">
+								<img src="./bienvenus_files/double-braces-symmetric-curly-brackets-pair-vector-43588010.jpg" data-id="43588010" data-title="double braces symmetric curly brackets pair" data-ratio="1" alt="Double braces symmetric curly brackets pair vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="43521872" style="width: 221px; height: 221px; order: 13;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/polygonal-coffee-icons-set-vector-43521872" style="height: 211px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/18/72/polygonal-coffee-icons-set-vector-43521872.webp 2x, https://cdn.vectorstock.com/i/preview-1x/18/72/polygonal-coffee-icons-set-vector-43521872.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/18/72/polygonal-coffee-icons-set-vector-43521872.webp 3x, https://cdn.vectorstock.com/i/preview-1x/18/72/polygonal-coffee-icons-set-vector-43521872.webp 2x, https://cdn.vectorstock.com/i/preview-lt/18/72/polygonal-coffee-icons-set-vector-43521872.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/18/72/polygonal-coffee-icons-set-vector-43521872.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/18/72/polygonal-coffee-icons-set-vector-43521872.jpg 1.5x">
+								<img src="./bienvenus_files/polygonal-coffee-icons-set-vector-43521872.jpg" data-id="43521872" data-title="polygonal coffee icons set" data-ratio="1" alt="Polygonal coffee icons set vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44388009" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/french-fries-pack-sketch-fast-food-icon-vector-44388009">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.webp 2x, https://cdn.vectorstock.com/i/preview-1x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.webp 3x, https://cdn.vectorstock.com/i/preview-1x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.webp 2x, https://cdn.vectorstock.com/i/preview-lt/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/80/09/french-fries-pack-sketch-fast-food-icon-vector-44388009.jpg 1.5x">
+								<img src="./bienvenus_files/french-fries-pack-sketch-fast-food-icon-vector-44388009.jpg" data-id="44388009" data-title="french fries pack sketch fast food icon" data-ratio="0.76" alt="French fries pack sketch fast food icon vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44701638" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/realistic-various-french-toothpick-flags-souvenir-vector-44701638">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.webp 2x, https://cdn.vectorstock.com/i/preview-1x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.webp 3x, https://cdn.vectorstock.com/i/preview-1x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.webp 2x, https://cdn.vectorstock.com/i/preview-lt/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/16/38/realistic-various-french-toothpick-flags-souvenir-vector-44701638.jpg 1.5x">
+								<img src="./bienvenus_files/realistic-various-french-toothpick-flags-souvenir-vector-44701638.jpg" data-id="44701638" data-title="realistic various french toothpick flags souvenir" data-ratio="3" alt="Realistic various french toothpick flags souvenir vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44553833" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.webp 2x, https://cdn.vectorstock.com/i/preview-1x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.webp 3x, https://cdn.vectorstock.com/i/preview-1x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.webp 2x, https://cdn.vectorstock.com/i/preview-lt/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/38/33/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.jpg 1.5x">
+								<img src="./bienvenus_files/3d-realistic-taxi-car-roof-sign-icon-set-vector-44553833.jpg" data-id="44553833" data-title="3d realistic taxi car roof sign icon set" data-ratio="2.732" alt="3d realistic taxi car roof sign icon set vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="23226407" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/protest-in-the-france-vector-23226407">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/64/07/protest-in-the-france-vector-23226407.webp 2x, https://cdn.vectorstock.com/i/preview-1x/64/07/protest-in-the-france-vector-23226407.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/64/07/protest-in-the-france-vector-23226407.webp 3x, https://cdn.vectorstock.com/i/preview-1x/64/07/protest-in-the-france-vector-23226407.webp 2x, https://cdn.vectorstock.com/i/preview-lt/64/07/protest-in-the-france-vector-23226407.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/64/07/protest-in-the-france-vector-23226407.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/64/07/protest-in-the-france-vector-23226407.jpg 1.5x">
+								<img src="./bienvenus_files/protest-in-the-france-vector-23226407.jpg" data-id="23226407" data-title="protest in the france" data-ratio="1.376" alt="Protest in the france vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="44892551" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/volumetric-heart-of-france-on-checkered-vector-44892551">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.webp 2x, https://cdn.vectorstock.com/i/preview-1x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.webp 3x, https://cdn.vectorstock.com/i/preview-1x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.webp 2x, https://cdn.vectorstock.com/i/preview-lt/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/25/51/volumetric-heart-of-france-on-checkered-vector-44892551.jpg 1.5x">
+								<img src="./bienvenus_files/volumetric-heart-of-france-on-checkered-vector-44892551.jpg" data-id="44892551" data-title="volumetric heart of france on checkered" data-ratio="1" alt="Volumetric heart of france on checkered vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="34399341" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/flag-france-waving-on-a-blue-sky-background-vector-34399341">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.webp 2x, https://cdn.vectorstock.com/i/preview-1x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.webp 3x, https://cdn.vectorstock.com/i/preview-1x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.webp 2x, https://cdn.vectorstock.com/i/preview-lt/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/93/41/flag-france-waving-on-a-blue-sky-background-vector-34399341.jpg 1.5x">
+								<img src="./bienvenus_files/flag-france-waving-on-a-blue-sky-background-vector-34399341.jpg" data-id="34399341" data-title="flag france waving on a blue sky background" data-ratio="3" alt="Flag france waving on a blue sky background vector">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small more">
+					<ul>
+						<li data-id="44301702" data-title="france postal mark or card with agriculture mills" data-src="https://cdn3.vectorstock.com/i/thumbs/17/02/france-postal-mark-or-card-with-agriculture-mills-vector-44301702.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/france-postal-mark-or-card-with-agriculture-mills-vector-44301702" title="france postal mark or card with agriculture mills vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/17/02/france-postal-mark-or-card-with-agriculture-mills-vector-44301702.jpg" title="france postal mark or card with agriculture mills" alt="france postal mark or card with agriculture mills vector image"></noscript></a></li>
+						<li data-id="45068187" data-title="cheese black icon" data-src="https://cdn3.vectorstock.com/i/thumbs/81/87/cheese-black-icon-vector-45068187.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/cheese-black-icon-vector-45068187" title="cheese black icon vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/81/87/cheese-black-icon-vector-45068187.jpg" title="cheese black icon" alt="cheese black icon vector image"></noscript></a></li>
+						<li data-id="45072558" data-title="made in france icon set french product stamp" data-src="https://cdn4.vectorstock.com/i/thumbs/25/58/made-in-france-icon-set-french-product-stamp-vector-45072558.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/made-in-france-icon-set-french-product-stamp-vector-45072558" title="made in france icon set french product stamp vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/25/58/made-in-france-icon-set-french-product-stamp-vector-45072558.jpg" title="made in france icon set french product stamp" alt="made in france icon set french product stamp vector image"></noscript></a></li>
+						<li data-id="45049153" data-title="bread icon design template isolated" data-src="https://cdn4.vectorstock.com/i/thumbs/91/53/bread-icon-design-template-isolated-vector-45049153.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/bread-icon-design-template-isolated-vector-45049153" title="bread icon design template isolated vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/91/53/bread-icon-design-template-isolated-vector-45049153.jpg" title="bread icon design template isolated" alt="bread icon design template isolated vector image"></noscript></a></li>
+						<li data-id="45198670" data-title="france and america crossed flags" data-src="https://cdn1.vectorstock.com/i/thumbs/86/70/france-and-america-crossed-flags-vector-45198670.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/france-and-america-crossed-flags-vector-45198670" title="france and america crossed flags vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/86/70/france-and-america-crossed-flags-vector-45198670.jpg" title="france and america crossed flags" alt="france and america crossed flags vector image"></noscript></a></li>
+						<li data-id="45373915" data-title="monochrome advertising poster" data-src="https://cdn1.vectorstock.com/i/thumbs/39/15/monochrome-advertising-poster-vector-45373915.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/monochrome-advertising-poster-vector-45373915" title="monochrome advertising poster vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/39/15/monochrome-advertising-poster-vector-45373915.jpg" title="monochrome advertising poster" alt="monochrome advertising poster vector image"></noscript></a></li>
+						<li data-id="22968040" data-title="joyeux noel - christmas greetings in french" data-src="https://cdn1.vectorstock.com/i/thumbs/80/40/joyeux-noel-christmas-greetings-in-french-vector-22968040.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/joyeux-noel-christmas-greetings-in-french-vector-22968040" title="joyeux noel - christmas greetings in french vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/80/40/joyeux-noel-christmas-greetings-in-french-vector-22968040.jpg" title="joyeux noel - christmas greetings in french" alt="joyeux noel - christmas greetings in french vector image"></noscript></a></li>
+						<li data-id="45107523" data-title="fleur de lis line icon with editable stroke" data-src="https://cdn4.vectorstock.com/i/thumbs/75/23/fleur-de-lis-line-icon-with-editable-stroke-vector-45107523.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/fleur-de-lis-line-icon-with-editable-stroke-vector-45107523" title="fleur de lis line icon with editable stroke vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/75/23/fleur-de-lis-line-icon-with-editable-stroke-vector-45107523.jpg" title="fleur de lis line icon with editable stroke" alt="fleur de lis line icon with editable stroke vector image"></noscript></a></li>
+						<li data-id="45246264" data-title="black chef hats cooker uniform in cafe kitchen" data-src="https://cdn5.vectorstock.com/i/thumbs/62/64/black-chef-hats-cooker-uniform-in-cafe-kitchen-vector-45246264.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/black-chef-hats-cooker-uniform-in-cafe-kitchen-vector-45246264" title="black chef hats cooker uniform in cafe kitchen vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/62/64/black-chef-hats-cooker-uniform-in-cafe-kitchen-vector-45246264.jpg" title="black chef hats cooker uniform in cafe kitchen" alt="black chef hats cooker uniform in cafe kitchen vector image"></noscript></a></li>
+						<li data-id="45060612" data-title="croissant line icon pastry french" data-src="https://cdn3.vectorstock.com/i/thumbs/06/12/croissant-line-icon-pastry-french-vector-45060612.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/croissant-line-icon-pastry-french-vector-45060612" title="croissant line icon pastry french vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/06/12/croissant-line-icon-pastry-french-vector-45060612.jpg" title="croissant line icon pastry french" alt="croissant line icon pastry french vector image"></noscript></a></li>
+						<li data-id="40856305" data-title="flat of artichoke isolated on white" data-src="https://cdn1.vectorstock.com/i/thumbs/63/05/flat-of-artichoke-isolated-on-white-vector-40856305.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/flat-of-artichoke-isolated-on-white-vector-40856305" title="flat of artichoke isolated on white vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/63/05/flat-of-artichoke-isolated-on-white-vector-40856305.jpg" title="flat of artichoke isolated on white" alt="flat of artichoke isolated on white vector image"></noscript></a></li>
+						<li data-id="23565714" data-title="line fast food icons" data-src="https://cdn5.vectorstock.com/i/thumbs/57/14/line-fast-food-icons-vector-23565714.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/line-fast-food-icons-vector-23565714" title="line fast food icons vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/57/14/line-fast-food-icons-vector-23565714.jpg" title="line fast food icons" alt="line fast food icons vector image"></noscript></a></li>
+						<li data-id="45753082" data-title="chef hat drawing cartoon" data-src="https://cdn3.vectorstock.com/i/thumbs/30/82/chef-hat-drawing-cartoon-vector-45753082.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/chef-hat-drawing-cartoon-vector-45753082" title="chef hat drawing cartoon vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/30/82/chef-hat-drawing-cartoon-vector-45753082.jpg" title="chef hat drawing cartoon" alt="chef hat drawing cartoon vector image"></noscript></a></li>
+						<li data-id="24175146" data-title="vintage lady hand" data-src="https://cdn2.vectorstock.com/i/thumbs/51/46/vintage-lady-hand-vector-24175146.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/vintage-lady-hand-vector-24175146" title="vintage lady hand vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/51/46/vintage-lady-hand-vector-24175146.jpg" title="vintage lady hand" alt="vintage lady hand vector image"></noscript></a></li>
+						<li data-id="34484567" data-title="fancs coin franc is any several units" data-src="https://cdn3.vectorstock.com/i/thumbs/45/67/fancs-coin-franc-is-any-several-units-vector-34484567.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/fancs-coin-franc-is-any-several-units-vector-34484567" title="fancs coin franc is any several units vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/45/67/fancs-coin-franc-is-any-several-units-vector-34484567.jpg" title="fancs coin franc is any several units" alt="fancs coin franc is any several units vector image"></noscript></a></li>
+						<li data-id="37466485" data-title="greetings from orleans vintage rusty metal plate" data-src="https://cdn1.vectorstock.com/i/thumbs/64/85/greetings-from-orleans-vintage-rusty-metal-plate-vector-37466485.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/greetings-from-orleans-vintage-rusty-metal-plate-vector-37466485" title="greetings from orleans vintage rusty metal plate vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/64/85/greetings-from-orleans-vintage-rusty-metal-plate-vector-37466485.jpg" title="greetings from orleans vintage rusty metal plate" alt="greetings from orleans vintage rusty metal plate vector image"></noscript></a></li>
+						<li data-id="36509751" data-title="pixel icon french fries in three variants" data-src="https://cdn2.vectorstock.com/i/thumbs/97/51/pixel-icon-french-fries-in-three-variants-vector-36509751.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/pixel-icon-french-fries-in-three-variants-vector-36509751" title="pixel icon french fries in three variants vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/97/51/pixel-icon-french-fries-in-three-variants-vector-36509751.jpg" title="pixel icon french fries in three variants" alt="pixel icon french fries in three variants vector image"></noscript></a></li>
+						<li data-id="44838371" data-title="cheese line icon outline sign linear" data-src="https://cdn2.vectorstock.com/i/thumbs/83/71/cheese-line-icon-outline-sign-linear-vector-44838371.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/cheese-line-icon-outline-sign-linear-vector-44838371" title="cheese line icon outline sign linear vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/83/71/cheese-line-icon-outline-sign-linear-vector-44838371.jpg" title="cheese line icon outline sign linear" alt="cheese line icon outline sign linear vector image"></noscript></a></li>
+						<li data-id="45473599" data-title="french rooster" data-src="https://cdn5.vectorstock.com/i/thumbs/35/99/french-rooster-vector-45473599.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/french-rooster-vector-45473599" title="french rooster vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/35/99/french-rooster-vector-45473599.jpg" title="french rooster" alt="french rooster vector image"></noscript></a></li>
+						<li data-id="36582397" data-title="outline flat icons music" data-src="https://cdn3.vectorstock.com/i/thumbs/23/97/outline-flat-icons-music-vector-36582397.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/outline-flat-icons-music-vector-36582397" title="outline flat icons music vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/23/97/outline-flat-icons-music-vector-36582397.jpg" title="outline flat icons music" alt="outline flat icons music vector image"></noscript></a></li>
+						<li data-id="45486429" data-title="chef hat cook cap sketch style food concept" data-src="https://cdn5.vectorstock.com/i/thumbs/64/29/chef-hat-cook-cap-sketch-style-food-concept-vector-45486429.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/chef-hat-cook-cap-sketch-style-food-concept-vector-45486429" title="chef hat cook cap sketch style food concept vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/64/29/chef-hat-cook-cap-sketch-style-food-concept-vector-45486429.jpg" title="chef hat cook cap sketch style food concept" alt="chef hat cook cap sketch style food concept vector image"></noscript></a></li>
+						<li data-id="44896624" data-title="coffee and tea line icons set" data-src="https://cdn5.vectorstock.com/i/thumbs/66/24/coffee-and-tea-line-icons-set-vector-44896624.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/coffee-and-tea-line-icons-set-vector-44896624" title="coffee and tea line icons set vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/66/24/coffee-and-tea-line-icons-set-vector-44896624.jpg" title="coffee and tea line icons set" alt="coffee and tea line icons set vector image"></noscript></a></li>
+						<li data-id="23459381" data-title="fleur de lys classic symbol set" data-src="https://cdn2.vectorstock.com/i/thumbs/93/81/fleur-de-lys-classic-symbol-set-vector-23459381.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/fleur-de-lys-classic-symbol-set-vector-23459381" title="fleur de lys classic symbol set vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/93/81/fleur-de-lys-classic-symbol-set-vector-23459381.jpg" title="fleur de lys classic symbol set" alt="fleur de lys classic symbol set vector image"></noscript></a></li>
+						<li data-id="45187620" data-title="motivational and inspirational food poster wall" data-src="https://cdn1.vectorstock.com/i/thumbs/76/20/motivational-and-inspirational-food-poster-wall-vector-45187620.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/motivational-and-inspirational-food-poster-wall-vector-45187620" title="motivational and inspirational food poster wall vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/76/20/motivational-and-inspirational-food-poster-wall-vector-45187620.jpg" title="motivational and inspirational food poster wall" alt="motivational and inspirational food poster wall vector image"></noscript></a></li>
+						<li data-id="21202013" data-title="french fries and coca cola" data-src="https://cdn4.vectorstock.com/i/thumbs/20/13/french-fries-and-coca-cola-vector-21202013.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/french-fries-and-coca-cola-vector-21202013" title="french fries and coca cola vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/20/13/french-fries-and-coca-cola-vector-21202013.jpg" title="french fries and coca cola" alt="french fries and coca cola vector image"></noscript></a></li>
+						<li data-id="22434282" data-title="fleur-de-lis icon" data-src="https://cdn3.vectorstock.com/i/thumbs/42/82/fleur-de-lis-icon-vector-22434282.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/fleur-de-lis-icon-vector-22434282" title="fleur-de-lis icon vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/42/82/fleur-de-lis-icon-vector-22434282.jpg" title="fleur-de-lis icon" alt="fleur-de-lis icon vector image"></noscript></a></li>
+						<li data-id="45157808" data-title="corks line icon wine bottle seal symbol" data-src="https://cdn4.vectorstock.com/i/thumbs/78/08/corks-line-icon-wine-bottle-seal-symbol-vector-45157808.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/corks-line-icon-wine-bottle-seal-symbol-vector-45157808" title="corks line icon wine bottle seal symbol vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/78/08/corks-line-icon-wine-bottle-seal-symbol-vector-45157808.jpg" title="corks line icon wine bottle seal symbol" alt="corks line icon wine bottle seal symbol vector image"></noscript></a></li>
+						<li data-id="44487219" data-title="retro postcard with the famous french eiffel" data-src="https://cdn5.vectorstock.com/i/thumbs/72/19/retro-postcard-with-the-famous-french-eiffel-vector-44487219.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/retro-postcard-with-the-famous-french-eiffel-vector-44487219" title="retro postcard with the famous french eiffel vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/72/19/retro-postcard-with-the-famous-french-eiffel-vector-44487219.jpg" title="retro postcard with the famous french eiffel" alt="retro postcard with the famous french eiffel vector image"></noscript></a></li>
+						<li data-id="44549828" data-title="set collection of fast food products street" data-src="https://cdn4.vectorstock.com/i/thumbs/98/28/set-collection-of-fast-food-products-street-vector-44549828.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/set-collection-of-fast-food-products-street-vector-44549828" title="set collection of fast food products street vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/98/28/set-collection-of-fast-food-products-street-vector-44549828.jpg" title="set collection of fast food products street" alt="set collection of fast food products street vector image"></noscript></a></li>
+						<li data-id="44881922" data-title="hand drawn croissant logo design template" data-src="https://cdn3.vectorstock.com/i/thumbs/19/22/hand-drawn-croissant-logo-design-template-vector-44881922.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-croissant-logo-design-template-vector-44881922" title="hand drawn croissant logo design template vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/19/22/hand-drawn-croissant-logo-design-template-vector-44881922.jpg" title="hand drawn croissant logo design template" alt="hand drawn croissant logo design template vector image"></noscript></a></li>
+						<li class="more"><div><a href="https://www.vectorstock.com/royalty-free-vectors/vectors-similar-to_31473644" rel="nofollow"><span class="lrg">More Images…</span><span class="sml">More</span></a></div></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-artist" class="group">
+				<h6><span class="icon"></span><strong>More by <a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Alenasia" rel="nofollow">Alenasia</a></strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="31472507" style="width: 386px; height: 210px; order: 0; padding-right: 2px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bienvenue-quote-in-french-vector-31472507" style="height: 200px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.webp 2x, https://cdn.vectorstock.com/i/preview-1x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.webp 3x, https://cdn.vectorstock.com/i/preview-1x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.webp 2x, https://cdn.vectorstock.com/i/preview-lt/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/25/07/hand-sketched-bienvenue-quote-in-french-vector-31472507.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-bienvenue-quote-in-french-vector-31472507.jpg" data-id="31472507" data-title="hand sketched bienvenue quote in french" data-ratio="1.876" alt="Hand sketched bienvenue quote in french vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="32434584" style="width: 465px; height: 210px; order: 1; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584" style="height: 200px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.webp 2x, https://cdn.vectorstock.com/i/preview-1x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.webp 3x, https://cdn.vectorstock.com/i/preview-1x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.webp 2x, https://cdn.vectorstock.com/i/preview-lt/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/45/84/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-merci-quote-in-french-as-ad-web-vector-32434584.jpg" data-id="32434584" data-title="hand sketched merci quote in french as ad web" data-ratio="2.272" alt="Hand sketched merci quote in french as ad web vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="34538690" style="width: 465px; height: 210px; order: 2;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-joyeux-noel-quote-in-french-vector-34538690" style="height: 200px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.webp 2x, https://cdn.vectorstock.com/i/preview-1x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.webp 3x, https://cdn.vectorstock.com/i/preview-1x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.webp 2x, https://cdn.vectorstock.com/i/preview-lt/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/86/90/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-joyeux-noel-quote-in-french-vector-34538690.jpg" data-id="34538690" data-title="hand sketched joyeux noel quote in french" data-ratio="2.272" alt="Hand sketched joyeux noel quote in french vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="30283104" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.webp 2x, https://cdn.vectorstock.com/i/preview-1x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.webp 3x, https://cdn.vectorstock.com/i/preview-1x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.webp 2x, https://cdn.vectorstock.com/i/preview-lt/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/31/04/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.jpg 1.5x">
+								<img src="./bienvenus_files/hand-drawn-joyeuses-paques-quote-in-french-vector-30283104.jpg" data-id="30283104" data-title="hand drawn joyeuses paques quote in french" data-ratio="1" alt="Hand drawn joyeuses paques quote in french vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="32780106" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/handwritten-quote-je-taime-as-banner-in-french-vector-32780106">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.webp 2x, https://cdn.vectorstock.com/i/preview-1x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.webp 3x, https://cdn.vectorstock.com/i/preview-1x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.webp 2x, https://cdn.vectorstock.com/i/preview-lt/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/01/06/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.jpg 1.5x">
+								<img src="./bienvenus_files/handwritten-quote-je-taime-as-banner-in-french-vector-32780106.jpg" data-id="32780106" data-title="handwritten quote je taime as banner in french" data-ratio="2.272" alt="Handwritten quote je taime as banner in french vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37265374" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265374">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.webp 2x, https://cdn.vectorstock.com/i/preview-1x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.webp 3x, https://cdn.vectorstock.com/i/preview-1x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.webp 2x, https://cdn.vectorstock.com/i/preview-lt/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/53/74/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-merci-quote-in-french-as-logo-vector-37265374.jpg" data-id="37265374" data-title="hand sketched merci quote in french as logo" data-ratio="1.668" alt="Hand sketched merci quote in french as logo vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37265378" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265378">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.webp 2x, https://cdn.vectorstock.com/i/preview-1x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.webp 3x, https://cdn.vectorstock.com/i/preview-1x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.webp 2x, https://cdn.vectorstock.com/i/preview-lt/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/53/78/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-merci-quote-in-french-as-logo-vector-37265378.jpg" data-id="37265378" data-title="hand sketched merci quote in french as logo" data-ratio="1.668" alt="Hand sketched merci quote in french as logo vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="30283072" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.webp 2x, https://cdn.vectorstock.com/i/preview-1x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.webp 3x, https://cdn.vectorstock.com/i/preview-1x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.webp 2x, https://cdn.vectorstock.com/i/preview-lt/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/30/72/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.jpg 1.5x">
+								<img src="./bienvenus_files/hand-drawn-joyeuses-paques-quote-in-french-vector-30283072.jpg" data-id="30283072" data-title="hand drawn joyeuses paques quote in french" data-ratio="1" alt="Hand drawn joyeuses paques quote in french vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37265350" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265350">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.webp 2x, https://cdn.vectorstock.com/i/preview-1x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.webp 3x, https://cdn.vectorstock.com/i/preview-1x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.webp 2x, https://cdn.vectorstock.com/i/preview-lt/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/53/50/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-merci-quote-in-french-as-logo-vector-37265350.jpg" data-id="37265350" data-title="hand sketched merci quote in french as logo" data-ratio="1.668" alt="Hand sketched merci quote in french as logo vector">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37265367" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265367">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.webp 2x, https://cdn.vectorstock.com/i/preview-1x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.webp 3x, https://cdn.vectorstock.com/i/preview-1x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.webp 2x, https://cdn.vectorstock.com/i/preview-lt/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/53/67/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.jpg 1.5x">
+								<img src="./bienvenus_files/hand-sketched-merci-quote-in-french-as-logo-vector-37265367.jpg" data-id="37265367" data-title="hand sketched merci quote in french as logo" data-ratio="1.668" alt="Hand sketched merci quote in french as logo vector">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small more">
+					<ul>
+						<li data-id="37265381" data-title="hand sketched merci quote in french as logo" data-src="https://cdn2.vectorstock.com/i/thumbs/53/81/hand-sketched-merci-quote-in-french-as-logo-vector-37265381.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265381" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/53/81/hand-sketched-merci-quote-in-french-as-logo-vector-37265381.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="37265398" data-title="hand sketched merci quote in french as logo" data-src="https://cdn4.vectorstock.com/i/thumbs/53/98/hand-sketched-merci-quote-in-french-as-logo-vector-37265398.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265398" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/53/98/hand-sketched-merci-quote-in-french-as-logo-vector-37265398.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="37265347" data-title="hand sketched merci quote in french as logo" data-src="https://cdn3.vectorstock.com/i/thumbs/53/47/hand-sketched-merci-quote-in-french-as-logo-vector-37265347.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265347" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/53/47/hand-sketched-merci-quote-in-french-as-logo-vector-37265347.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="32118316" data-title="vive la france quote in french translated long" data-src="https://cdn2.vectorstock.com/i/thumbs/83/16/vive-la-france-quote-in-french-translated-long-vector-32118316.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/vive-la-france-quote-in-french-translated-long-vector-32118316" title="vive la france quote in french translated long vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/83/16/vive-la-france-quote-in-french-translated-long-vector-32118316.jpg" title="vive la france quote in french translated long" alt="vive la france quote in french translated long vector image vector image"></noscript></a></li>
+						<li data-id="32119227" data-title="14th july freedom equality brotherhood quote" data-src="https://cdn3.vectorstock.com/i/thumbs/92/27/14th-july-freedom-equality-brotherhood-quote-vector-32119227.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/14th-july-freedom-equality-brotherhood-quote-vector-32119227" title="14th july freedom equality brotherhood quote vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/92/27/14th-july-freedom-equality-brotherhood-quote-vector-32119227.jpg" title="14th july freedom equality brotherhood quote" alt="14th july freedom equality brotherhood quote vector image vector image"></noscript></a></li>
+						<li data-id="35809237" data-title="hand sketched i love you french quote romantic" data-src="https://cdn3.vectorstock.com/i/thumbs/92/37/hand-sketched-i-love-you-french-quote-romantic-vector-35809237.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-i-love-you-french-quote-romantic-vector-35809237" title="hand sketched i love you french quote romantic vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/92/37/hand-sketched-i-love-you-french-quote-romantic-vector-35809237.jpg" title="hand sketched i love you french quote romantic" alt="hand sketched i love you french quote romantic vector image vector image"></noscript></a></li>
+						<li data-id="37265422" data-title="hand sketched merci quote in french as logo" data-src="https://cdn3.vectorstock.com/i/thumbs/54/22/hand-sketched-merci-quote-in-french-as-logo-vector-37265422.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265422" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/54/22/hand-sketched-merci-quote-in-french-as-logo-vector-37265422.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="35833937" data-title="hand sketched i love you in french quote romantic" data-src="https://cdn3.vectorstock.com/i/thumbs/39/37/hand-sketched-i-love-you-in-french-quote-romantic-vector-35833937.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-i-love-you-in-french-quote-romantic-vector-35833937" title="hand sketched i love you in french quote romantic vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/39/37/hand-sketched-i-love-you-in-french-quote-romantic-vector-35833937.jpg" title="hand sketched i love you in french quote romantic" alt="hand sketched i love you in french quote romantic vector image vector image"></noscript></a></li>
+						<li data-id="30283129" data-title="hand drawn joyeuses paques quote in french" data-src="https://cdn5.vectorstock.com/i/thumbs/31/29/hand-drawn-joyeuses-paques-quote-in-french-vector-30283129.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-drawn-joyeuses-paques-quote-in-french-vector-30283129" title="hand drawn joyeuses paques quote in french vector image"><noscript><img src="https://cdn5.vectorstock.com/i/thumbs/31/29/hand-drawn-joyeuses-paques-quote-in-french-vector-30283129.jpg" title="hand drawn joyeuses paques quote in french" alt="hand drawn joyeuses paques quote in french vector image vector image"></noscript></a></li>
+						<li data-id="32434441" data-title="hand sketched bonjour quote in french as ad web" data-src="https://cdn2.vectorstock.com/i/thumbs/44/41/hand-sketched-bonjour-quote-in-french-as-ad-web-vector-32434441.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-bonjour-quote-in-french-as-ad-web-vector-32434441" title="hand sketched bonjour quote in french as ad web vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/44/41/hand-sketched-bonjour-quote-in-french-as-ad-web-vector-32434441.jpg" title="hand sketched bonjour quote in french as ad web" alt="hand sketched bonjour quote in french as ad web vector image vector image"></noscript></a></li>
+						<li data-id="32119232" data-title="14th july freedom equality brotherhood quote" data-src="https://cdn3.vectorstock.com/i/thumbs/92/32/14th-july-freedom-equality-brotherhood-quote-vector-32119232.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/14th-july-freedom-equality-brotherhood-quote-vector-32119232" title="14th july freedom equality brotherhood quote vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/92/32/14th-july-freedom-equality-brotherhood-quote-vector-32119232.jpg" title="14th july freedom equality brotherhood quote" alt="14th july freedom equality brotherhood quote vector image vector image"></noscript></a></li>
+						<li data-id="37265357" data-title="hand sketched merci quote in french as logo" data-src="https://cdn3.vectorstock.com/i/thumbs/53/57/hand-sketched-merci-quote-in-french-as-logo-vector-37265357.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265357" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/53/57/hand-sketched-merci-quote-in-french-as-logo-vector-37265357.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="37265403" data-title="hand sketched merci quote in french as logo" data-src="https://cdn4.vectorstock.com/i/thumbs/54/03/hand-sketched-merci-quote-in-french-as-logo-vector-37265403.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265403" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/54/03/hand-sketched-merci-quote-in-french-as-logo-vector-37265403.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="35809057" data-title="hand sketched i love you french quote romantic" data-src="https://cdn3.vectorstock.com/i/thumbs/90/57/hand-sketched-i-love-you-french-quote-romantic-vector-35809057.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-i-love-you-french-quote-romantic-vector-35809057" title="hand sketched i love you french quote romantic vector image"><noscript><img src="https://cdn3.vectorstock.com/i/thumbs/90/57/hand-sketched-i-love-you-french-quote-romantic-vector-35809057.jpg" title="hand sketched i love you french quote romantic" alt="hand sketched i love you french quote romantic vector image vector image"></noscript></a></li>
+						<li data-id="37265385" data-title="hand sketched merci quote in french as logo" data-src="https://cdn1.vectorstock.com/i/thumbs/53/85/hand-sketched-merci-quote-in-french-as-logo-vector-37265385.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265385" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/53/85/hand-sketched-merci-quote-in-french-as-logo-vector-37265385.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="32118343" data-title="vive la france quote in french translated long" data-src="https://cdn4.vectorstock.com/i/thumbs/83/43/vive-la-france-quote-in-french-translated-long-vector-32118343.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/vive-la-france-quote-in-french-translated-long-vector-32118343" title="vive la france quote in french translated long vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/83/43/vive-la-france-quote-in-french-translated-long-vector-32118343.jpg" title="vive la france quote in french translated long" alt="vive la france quote in french translated long vector image vector image"></noscript></a></li>
+						<li data-id="37265393" data-title="hand sketched merci quote in french as logo" data-src="https://cdn4.vectorstock.com/i/thumbs/53/93/hand-sketched-merci-quote-in-french-as-logo-vector-37265393.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-merci-quote-in-french-as-logo-vector-37265393" title="hand sketched merci quote in french as logo vector image"><noscript><img src="https://cdn4.vectorstock.com/i/thumbs/53/93/hand-sketched-merci-quote-in-french-as-logo-vector-37265393.jpg" title="hand sketched merci quote in french as logo" alt="hand sketched merci quote in french as logo vector image vector image"></noscript></a></li>
+						<li data-id="35809110" data-title="hand sketched i love you french quote romantic" data-src="https://cdn1.vectorstock.com/i/thumbs/91/10/hand-sketched-i-love-you-french-quote-romantic-vector-35809110.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/hand-sketched-i-love-you-french-quote-romantic-vector-35809110" title="hand sketched i love you french quote romantic vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/91/10/hand-sketched-i-love-you-french-quote-romantic-vector-35809110.jpg" title="hand sketched i love you french quote romantic" alt="hand sketched i love you french quote romantic vector image vector image"></noscript></a></li>
+						<li data-id="32119236" data-title="14th july freedom equality brotherhood quote" data-src="https://cdn2.vectorstock.com/i/thumbs/92/36/14th-july-freedom-equality-brotherhood-quote-vector-32119236.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/14th-july-freedom-equality-brotherhood-quote-vector-32119236" title="14th july freedom equality brotherhood quote vector image"><noscript><img src="https://cdn2.vectorstock.com/i/thumbs/92/36/14th-july-freedom-equality-brotherhood-quote-vector-32119236.jpg" title="14th july freedom equality brotherhood quote" alt="14th july freedom equality brotherhood quote vector image vector image"></noscript></a></li>
+						<li data-id="32118345" data-title="vive la france quote in french translated long" data-src="https://cdn1.vectorstock.com/i/thumbs/83/45/vive-la-france-quote-in-french-translated-long-vector-32118345.jpg"><a href="https://www.vectorstock.com/royalty-free-vector/vive-la-france-quote-in-french-translated-long-vector-32118345" title="vive la france quote in french translated long vector image"><noscript><img src="https://cdn1.vectorstock.com/i/thumbs/83/45/vive-la-france-quote-in-french-translated-long-vector-32118345.jpg" title="vive la france quote in french translated long" alt="vive la france quote in french translated long vector image vector image"></noscript></a></li>
+						<li class="more"><div><a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_Alenasia" rel="nofollow"><span class="lrg">More Images…</span><span class="sml">More</span></a></div></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-keywords" class="group">
+				<h6><span class="icon"></span><strong>Related Searches</strong></h6>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/bienvenue-vectors">Bienvenue</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/welcome-vectors">Welcome</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/quote-vectors">Quote</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/french-vectors">French</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/sign-vectors">Sign</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/symbol-vectors">Symbol</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/header-vectors">Header</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/announcement-vectors">Announcement</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/lettering-vectors">Lettering</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/vector-vectors">Vector</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/design-vectors">Design</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/drawn-vectors">Drawn</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/modern-vectors">Modern</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/label-vectors">Label</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/web-vectors">Web</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/element-vectors">Element</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/information-vectors">Information</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/calligraphy-vectors">Calligraphy</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/banner-vectors">Banner</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/inscription-vectors">Inscription</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/message-vectors">Message</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/concept-vectors">Concept</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/ad-vectors">Ad</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/advertising-vectors">Advertising</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/marketing-vectors">Marketing</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/phrase-vectors">Phrase</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/handwritten-vectors">Handwritten</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/tag-vectors">Tag</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/type-vectors">Type</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/restaurant-vectors">Restaurant</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/template-vectors">Template</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/word-vectors">Word</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/business-vectors">Business</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/shop-vectors">Shop</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/service-vectors">Service</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/typography-vectors">Typography</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/text-vectors">Text</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/back-vectors">Back</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/store-vectors">Store</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/title-vectors">Title</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/online-vectors">Online</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/again-vectors">Again</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/we-vectors">We</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/are-vectors">Are</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/open-vectors">Open</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/were-vectors">Were</a></li>
+				</ul>
+			</div>
+		</section>
+	</article>
+
+	<!-- Footer -->
+	<footer>
+		<div>
+		<div class="column c1">
+			<nav class="company">
+				<h4>VectorStock</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/" title="Home">Home</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/free-vectors" title="Free Vectors">Free Vectors</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/royalty-free-vectors" title="All Royalty-Free Vectors">All Vectors</a></li>
+				</ul>
+				<ul>
+					<li><a href="https://www.vectorstock.com/what-is-a-vector" title="What is a Vector?">What is a Vector?</a></li>
+				</ul>
+				<ul>
+					<li class="sel"><a href="https://www.vectorstock.com/faq" title="Frequently Asked Questions"><span class="long">Frequently Asked Questions</span><span class="short">FAQs</span></a></li>
+					<li><a href="https://www.vectorstock.com/faq/members/terms-of-use" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/contact" title="Contact Us">Contact Us</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column c2">
+			<nav class="account">
+				<h4><span class="title">Account</span><span class="icon"></span></h4>
+					<ul>
+						<li><a href="https://www.vectorstock.com/signup" title="Join Now">Join Now</a></li>
+						<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+						<li><a href="https://www.vectorstock.com/?signup=1&amp;contributor=1" title="Contributor Sign Up">Contributor Sign Up</a></li>
+						<li><a href="https://www.vectorstock.com/faq/artists/why-sell-at-vectorstock" title="Contributor FAQ">Contributor FAQ</a></li>
+					</ul>
+			</nav>
+		</div>
+		<div class="column c3">
+			<nav class="social">
+				<h4>Social</h4>
+				<ul>
+					<li class="facebook sel"><a href="https://www.facebook.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">Facebook</span><span class="icon"></span></a></li>
+					<li class="pinterest sel"><a href="https://pinterest.com/vectorstock/" target="_blank" rel="noreferrer"><span class="title">Pinterest</span><span class="icon"></span></a></li>
+					<li class="twitter sel"><a href="https://twitter.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">Twitter</span><span class="icon"></span></a></li>
+				</ul>
+			</nav>
+			<div class="signoff">
+				<h5><a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a></h5>
+				<p>VectorStock and the VectorStock logo are registered trademarks of VectorStock Media.<br>
+				© 2023. <span>All Rights Reserved.</span></p>
+			</div>
+		</div>
+		</div>
+	</footer>
+
+
+	<script type="text/javascript" nonce="lbeg11xJV2EoEVrhvRPJZw24z126dbbNfKfxoAIegAU=">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"02e09611df","applicationID":"156179534","transactionName":"ZV0ENRYCC0RYAkVbDVwXJRQXFwpaFhNeSwNeTB9MAhEAUhQXVFEWXUpJFw0GEg==","queueTime":0,"applicationTime":63,"atts":"SRoHQ14YGEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+
+</body></html>
